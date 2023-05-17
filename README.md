@@ -76,3 +76,7 @@ Please feel free to send me pull requests or contact me to correct any mistakes.
 ### **Game** ###
 - **Minedojo** "Minedojo: Building open-ended embodied agents with internet-scale knowledge." arXiv, 2022. [[paper]](https://arxiv.org/pdf/2206.08853)[[code]](https://github.com/MineDojo/MineDojo)[[website]](https://minedojo.org/)
 - **BabyAI**  "Babyai: A platform to study the sample efficiency of grounded language learning." ICLR, 2019. [[paper]](https://arxiv.org/pdf/1810.08272)[[code]](https://github.com/mila-iqia/babyai)
+
+---
+## **Citation** ##
+---
