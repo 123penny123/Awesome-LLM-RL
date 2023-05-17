@@ -7,7 +7,6 @@ Please feel free to send me pull requests or contact me to correct any mistakes.
 
 ---
 ## **Table of Contents** ##
----
 
 - [Survey of Foundation Models in Decision Making](#Survey)
 - [Foundation Models as World Models](#World-Models)
@@ -19,7 +18,6 @@ Please feel free to send me pull requests or contact me to correct any mistakes.
 ---
 
 ## **Paper** ##
----
 
 ### **Survey** ###
 - "A survey of reinforcement learning informed by natural language." arXiv, 2019. [[paper]](https://arxiv.org/pdf/1906.03926)
@@ -57,7 +55,7 @@ Please feel free to send me pull requests or contact me to correct any mistakes.
 
 ---
 ## **Benchmark** ##
----
+
 ### **Manipulation** ###
 - **Meta-World**: "Meta-world: A benchmark and evaluation for multi-task and meta reinforcement learning." CoRl, 2019. [[paper]](http://proceedings.mlr.press/v100/yu20a/yu20a.pdf)[[code]](https://github.com/Farama-Foundation/Metaworld)[[website]](https://meta-world.github.io/)
 - **RLbench**: James, Stephen, et al. "Rlbench: The robot learning benchmark & learning environment." IEEE Robotics and Automation Letters, 2020. [[paper]](https://arxiv.org/pdf/1909.12271)[[code]](https://github.com/stepjam/RLBench)[[website]](https://sites.google.com/view/rlbench)
@@ -79,4 +77,4 @@ Please feel free to send me pull requests or contact me to correct any mistakes.
 
 ---
 ## **Citation** ##
----
+
