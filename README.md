@@ -13,7 +13,7 @@ Please feel free to send me pull requests or contact me to correct any mistakes.
 - [Foundation Models as Reward Models](#Reward-Models)
 - [Foundation Models as Planners](#Planners)
 - [Foundation Models as Representation Encoders](#Encoders)
-- [Multi-modal Benchmarks](#Benchmark)
+- [Multi-modal Decision Making Benchmarks](#Benchmark)
 
 ---
 
