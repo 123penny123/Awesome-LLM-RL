@@ -1,5 +1,4 @@
 # **Awesome-LM-RL** #
-By Guangran Cheng.
 
 2023 up-to-date list of PAPERS, CODEBASES, and BENCHMARKS on Decision Making using Foundation Models including LLMs and VLMs.
 
