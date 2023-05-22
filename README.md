@@ -28,8 +28,10 @@ Please feel free to send me pull requests or contact me to correct any mistakes.
 - **UniPi**: "Learning Universal Policies via Text-Guided Video Generation." arXiv, 2023.[[paper]](https://arxiv.org/pdf/2302.00111)[[website]](https://universal-policy.github.io/unipi/)
 
 ### **Reward Models** ###
+- **EAGER**: "EAGER: Asking and Answering Questions for Automatic Reward Shaping in Language-guided RL." NIPS, 2022. [[paper]](https://proceedings.neurips.cc/paper_files/paper/2022/file/50eb39ab717507cccbe2b8590de32030-Paper-Conference.pdf)[[code]](https://github.com/flowersteam/eager)
 - "Reward design with language models." ICLR, 2023. [[paper]](https://arxiv.org/pdf/2303.00001)[[code]](https://github.com/minaek/reward_design_with_llms)
 - **ELLM**: "Guiding Pretraining in Reinforcement Learning with Large Language Models." arXiv, 2023. [[paper]](https://arxiv.org/pdf/2302.06692)
+
 ### **Planners** ###
 - **FILM**: "Film: Following instructions in language with modular methods." ICLR, 2022. [[paper]](https://arxiv.org/pdf/2110.07342)[[code]](https://soyeonm.github.io/FILM_webpage/)[[website]](https://soyeonm.github.io/FILM_webpage/)
 - **SayCan**: "Do as i can, not as i say: Grounding language in robotic affordances." arXiv, 2022. [[paper]](https://arxiv.org/pdf/2204.01691)[[code]](https://github.com/google-research/google-research/tree/master/saycan)[[website]](https://say-can.github.io/)
