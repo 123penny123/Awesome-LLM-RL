@@ -44,6 +44,7 @@ Please feel free to send me pull requests or contact me to correct any mistakes.
 - **Inner Monologue**: "Inner monologue: Embodied reasoning through planning with language models." arXiv, 2022. [[paper]](https://arxiv.org/pdf/2207.05608)[[website]](https://innermonologue.github.io/)
 - **Plan4MC**: "Plan4MC: Skill Reinforcement Learning and Planning for Open-World Minecraft Tasks." arXiv, 2023. [[paper]](https://arxiv.org/pdf/2303.16563)[[code]](https://github.com/PKU-RL/Plan4MC)[[website]](https://sites.google.com/view/plan4mc)
 - **TidyBot**: "TidyBot: Personalized Robot Assistance with Large Language Models." arXiv, 2023. [[paper]](https://arxiv.org/pdf/2305.05658)[[website]](https://tidybot.cs.princeton.edu/)
+- **ProgPrompt**: "ProgPrompt: Generating Situated Robot Task Plans using Large Language Models." ICRA, 2023. [[paper]](https://arxiv.org/pdf/2209.11302)[[website]](https://progprompt.github.io/)
 
 ### **Encoders** ###
 - **Cliport**: "Cliport: What and where pathways for robotic manipulation." CoRL, 2021. [[paper]](https://proceedings.mlr.press/v164/shridhar22a/shridhar22a.pdf)[[code]](https://github.com/cliport/cliport)[[website]](https://cliport.github.io/)
