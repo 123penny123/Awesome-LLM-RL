@@ -34,7 +34,6 @@ Please feel free to send me pull requests or contact me to correct any mistakes.
 
 ### **Planners** ###
 - **FILM**: "Film: Following instructions in language with modular methods." ICLR, 2022. [[paper]](https://arxiv.org/pdf/2110.07342)[[code]](https://soyeonm.github.io/FILM_webpage/)[[website]](https://soyeonm.github.io/FILM_webpage/)
-- **Rt-1**: "Rt-1: Robotics transformer for real-world control at scale." arXiv, 2022. [[paper]](https://arxiv.org/pdf/2212.06817)[[code]](https://github.com/google-research/robotics_transformer)[[website]](https://robotics-transformer.github.io/)
 - **SayCan**: "Do as i can, not as i say: Grounding language in robotic affordances." arXiv, 2022. [[paper]](https://arxiv.org/pdf/2204.01691)[[code]](https://github.com/google-research/google-research/tree/master/saycan)[[website]](https://say-can.github.io/)
 - **PaLM-E**: "Palm-e: An embodied multimodal language model." arXiv, 2023. [[paper]](https://arxiv.org/pdf/2303.03378.pdf?trk=public_post_comment-text)[[website]](https://palm-e.github.io/)
 - **LM-Nav**: "Lm-nav: Robotic navigation with large pre-trained models of language, vision, and action." CoRL, 2022.[[paper]](https://proceedings.mlr.press/v205/shah23b/shah23b.pdf)[[code]](https://github.com/blazejosinski/lm_nav)[[website]](https://sites.google.com/view/lmnav)
@@ -48,6 +47,7 @@ Please feel free to send me pull requests or contact me to correct any mistakes.
 
 ### **Encoders** ###
 - **Cliport**: "Cliport: What and where pathways for robotic manipulation." CoRL, 2021. [[paper]](https://proceedings.mlr.press/v164/shridhar22a/shridhar22a.pdf)[[code]](https://github.com/cliport/cliport)[[website]](https://cliport.github.io/)
+- **Rt-1**: "Rt-1: Robotics transformer for real-world control at scale." arXiv, 2022. [[paper]](https://arxiv.org/pdf/2212.06817)[[code]](https://github.com/google-research/robotics_transformer)[[website]](https://robotics-transformer.github.io/)
 - **Vima**; "Vima: General robot manipulation with multimodal prompts." arXiv, 2022. [[paper]](https://arxiv.org/pdf/2210.03094)[[code]](https://github.com/vimalabs/VIMA)[[website]](https://vimalabs.github.io/)
 - **Perceiver-actor**: "Perceiver-actor: A multi-task transformer for robotic manipulation." CoRL, 2022. [[paper]](https://proceedings.mlr.press/v205/shridhar23a/shridhar23a.pdf)[[code]](https://github.com/peract/peract)[[website]](https://peract.github.io/)
 - **InstructRL**: "Instruction-Following Agents with Jointly Pre-Trained Vision-Language Models." arXiv, 2022. [[paper]](https://arxiv.org/pdf/2210.13431)
