@@ -48,7 +48,7 @@ Please feel free to send me pull requests or contact me to correct any mistakes.
 ### **Encoders** ###
 - **Cliport**: "Cliport: What and where pathways for robotic manipulation." CoRL, 2021. [[paper]](https://proceedings.mlr.press/v164/shridhar22a/shridhar22a.pdf)[[code]](https://github.com/cliport/cliport)[[website]](https://cliport.github.io/)
 - **Rt-1**: "Rt-1: Robotics transformer for real-world control at scale." arXiv, 2022. [[paper]](https://arxiv.org/pdf/2212.06817)[[code]](https://github.com/google-research/robotics_transformer)[[website]](https://robotics-transformer.github.io/)
-- **Vima**; "Vima: General robot manipulation with multimodal prompts." arXiv, 2022. [[paper]](https://arxiv.org/pdf/2210.03094)[[code]](https://github.com/vimalabs/VIMA)[[website]](https://vimalabs.github.io/)
+- **Vima**; "Vima: General robot manipulation with multimodal prompts." ICML, 2023. [[paper]](https://arxiv.org/pdf/2210.03094)[[code]](https://github.com/vimalabs/VIMA)[[website]](https://vimalabs.github.io/)
 - **Perceiver-actor**: "Perceiver-actor: A multi-task transformer for robotic manipulation." CoRL, 2022. [[paper]](https://proceedings.mlr.press/v205/shridhar23a/shridhar23a.pdf)[[code]](https://github.com/peract/peract)[[website]](https://peract.github.io/)
 - **InstructRL**: "Instruction-Following Agents with Jointly Pre-Trained Vision-Language Models." arXiv, 2022. [[paper]](https://arxiv.org/pdf/2210.13431)
 - **Hiveformer**: "Instruction-driven history-aware policies for robotic manipulations." CoRL, 2022. [[paper]](https://proceedings.mlr.press/v205/guhur23a/guhur23a.pdf)[[code]](https://github.com/guhur/hiveformer)[[website]](https://guhur.github.io/hiveformer/)
