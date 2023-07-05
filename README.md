@@ -45,7 +45,7 @@ Please feel free to send me pull requests or contact me to correct any mistakes.
 - **TidyBot**: "TidyBot: Personalized Robot Assistance with Large Language Models." arXiv, 2023. [[paper]](https://arxiv.org/pdf/2305.05658)[[website]](https://tidybot.cs.princeton.edu/)
 - **ProgPrompt**: "ProgPrompt: Generating Situated Robot Task Plans using Large Language Models." ICRA, 2023. [[paper]](https://arxiv.org/pdf/2209.11302)[[website]](https://progprompt.github.io/)
 
-### **Encoders** ###
+### **Representation** ###
 - **Cliport**: "Cliport: What and where pathways for robotic manipulation." CoRL, 2021. [[paper]](https://proceedings.mlr.press/v164/shridhar22a/shridhar22a.pdf)[[code]](https://github.com/cliport/cliport)[[website]](https://cliport.github.io/)
 - **Rt-1**: "Rt-1: Robotics transformer for real-world control at scale." arXiv, 2022. [[paper]](https://arxiv.org/pdf/2212.06817)[[code]](https://github.com/google-research/robotics_transformer)[[website]](https://robotics-transformer.github.io/)
 - **Vima**; "Vima: General robot manipulation with multimodal prompts." ICML, 2023. [[paper]](https://arxiv.org/pdf/2210.03094)[[code]](https://github.com/vimalabs/VIMA)[[website]](https://vimalabs.github.io/)
@@ -55,6 +55,7 @@ Please feel free to send me pull requests or contact me to correct any mistakes.
 - **LID**: "Pre-trained language models for interactive decision-making." NIPS, 2022. [[paper]](https://proceedings.neurips.cc/paper_files/paper/2022/file/ca3b1f24fc0238edf5ed1ad226b9d655-Paper-Conference.pdf)[[code]](https://github.com/ShuangLI59/Pre-Trained-Language-Models-for-Interactive-Decision-Making)[[website]](https://shuangli-project.github.io/Pre-Trained-Language-Models-for-Interactive-Decision-Making/)
 - **LISA**: "LISA: Learning Interpretable Skill Abstractions from Language." NIPS, 2022. [[paper]](https://arxiv.org/pdf/2203.00054)[[code]](https://github.com/Div99/LISA)
 - **LoReL**: "Learning language-conditioned robot behavior from offline data and crowd-sourced annotation." CoRL, 2021. [[paper]](https://proceedings.mlr.press/v164/nair22a/nair22a.pdf)[[code]](https://github.com/suraj-nair-1/lorel)[[website]](https://sites.google.com/view/robotlorel)
+- **GRIF**: "Goal Representations for Instruction Following: A Semi-Supervised Language Interface to Control." arXiv, 2023. [[paper]](https://arxiv.org/pdf/2307.00117)[[website]](https://rail-berkeley.github.io/grif/)
 
 ---
 ## **Benchmark** ##
