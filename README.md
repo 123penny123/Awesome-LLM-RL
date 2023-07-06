@@ -10,7 +10,7 @@ Please feel free to send me pull requests or contact me to correct any mistakes.
 - [Survey of Foundation Models in Decision Making](#Survey)
 - [Foundation Models as World Models](#World-Models)
 - [Foundation Models as Reward Models](#Reward-Models)
-- [Foundation Models as Planners](#Planners)
+- [Foundation Models as Agent Models](#Agent-Models)
 - [Foundation Models as Representation Encoders](#Encoders)
 - [Multi-modal Decision Making Benchmarks](#Benchmark)
 
@@ -32,7 +32,7 @@ Please feel free to send me pull requests or contact me to correct any mistakes.
 - "Reward design with language models." ICLR, 2023. [[paper]](https://arxiv.org/pdf/2303.00001)[[code]](https://github.com/minaek/reward_design_with_llms)
 - **ELLM**: "Guiding Pretraining in Reinforcement Learning with Large Language Models." arXiv, 2023. [[paper]](https://arxiv.org/pdf/2302.06692)
 
-### **Planners** ###
+### **Agent Models** ###
 - **FILM**: "Film: Following instructions in language with modular methods." ICLR, 2022. [[paper]](https://arxiv.org/pdf/2110.07342)[[code]](https://soyeonm.github.io/FILM_webpage/)[[website]](https://soyeonm.github.io/FILM_webpage/)
 - **SayCan**: "Do as i can, not as i say: Grounding language in robotic affordances." arXiv, 2022. [[paper]](https://arxiv.org/pdf/2204.01691)[[code]](https://github.com/google-research/google-research/tree/master/saycan)[[website]](https://say-can.github.io/)
 - **PaLM-E**: "Palm-e: An embodied multimodal language model." arXiv, 2023. [[paper]](https://arxiv.org/pdf/2303.03378.pdf?trk=public_post_comment-text)[[website]](https://palm-e.github.io/)
@@ -44,6 +44,7 @@ Please feel free to send me pull requests or contact me to correct any mistakes.
 - **Plan4MC**: "Plan4MC: Skill Reinforcement Learning and Planning for Open-World Minecraft Tasks." arXiv, 2023. [[paper]](https://arxiv.org/pdf/2303.16563)[[code]](https://github.com/PKU-RL/Plan4MC)[[website]](https://sites.google.com/view/plan4mc)
 - **TidyBot**: "TidyBot: Personalized Robot Assistance with Large Language Models." arXiv, 2023. [[paper]](https://arxiv.org/pdf/2305.05658)[[website]](https://tidybot.cs.princeton.edu/)
 - **ProgPrompt**: "ProgPrompt: Generating Situated Robot Task Plans using Large Language Models." ICRA, 2023. [[paper]](https://arxiv.org/pdf/2209.11302)[[website]](https://progprompt.github.io/)
+- **Chatgpt for robotics**: "Chatgpt for robotics: Design principles and model abilities." Microsoft Auton. Syst. Robot. Res 2 (2023): 20. [[paper]](https://www.microsoft.com/en-us/research/uploads/prod/2023/02/ChatGPT___Robotics.pdf)
 
 ### **Representation** ###
 - **Cliport**: "Cliport: What and where pathways for robotic manipulation." CoRL, 2021. [[paper]](https://proceedings.mlr.press/v164/shridhar22a/shridhar22a.pdf)[[code]](https://github.com/cliport/cliport)[[website]](https://cliport.github.io/)
