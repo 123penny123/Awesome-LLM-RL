@@ -46,7 +46,8 @@ Please feel free to send me pull requests or contact me to correct any mistakes.
 - **ProgPrompt**: "ProgPrompt: Generating Situated Robot Task Plans using Large Language Models." ICRA, 2023. [[paper]](https://arxiv.org/pdf/2209.11302)[[website]](https://progprompt.github.io/)
 - **Chatgpt for robotics**: "Chatgpt for robotics: Design principles and model abilities." Microsoft Auton. Syst. Robot. Res 2 (2023): 20. [[paper]](https://www.microsoft.com/en-us/research/uploads/prod/2023/02/ChatGPT___Robotics.pdf)
 - **KNOWNO**: "Robots That Ask For Help: Uncertainty Alignment for Large Language Model Planners." arXiv, July 2023. [[paper]](https://arxiv.org/pdf/2307.01928)
-
+- **VoxPoser**: "VoxPoser: Composable 3D Value Maps for Robotic Manipulation with Language Models." July 2023. [[[paper]](https://voxposer.github.io/voxposer.pdf)[[website]](https://voxposer.github.io/)
+ 
 ### **Representation** ###
 - **Cliport**: "Cliport: What and where pathways for robotic manipulation." CoRL, 2021. [[paper]](https://proceedings.mlr.press/v164/shridhar22a/shridhar22a.pdf)[[code]](https://github.com/cliport/cliport)[[website]](https://cliport.github.io/)
 - **Rt-1**: "Rt-1: Robotics transformer for real-world control at scale." arXiv, 2022. [[paper]](https://arxiv.org/pdf/2212.06817)[[code]](https://github.com/google-research/robotics_transformer)[[website]](https://robotics-transformer.github.io/)
