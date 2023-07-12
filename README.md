@@ -47,6 +47,7 @@ Please feel free to send me pull requests or contact me to correct any mistakes.
 - **Chatgpt for robotics**: "Chatgpt for robotics: Design principles and model abilities." Microsoft Auton. Syst. Robot. Res 2 (2023): 20. [[paper]](https://www.microsoft.com/en-us/research/uploads/prod/2023/02/ChatGPT___Robotics.pdf)
 - **KNOWNO**: "Robots That Ask For Help: Uncertainty Alignment for Large Language Model Planners." arXiv, July 2023. [[paper]](https://arxiv.org/pdf/2307.01928)
 - **VoxPoser**: "VoxPoser: Composable 3D Value Maps for Robotic Manipulation with Language Models." July 2023. [[[paper]](https://voxposer.github.io/voxposer.pdf)[[website]](https://voxposer.github.io/)
+- **React**: "React: Synergizing reasoning and acting in language models." ICLR, 2023. [[paper]](https://arxiv.org/pdf/2210.03629)[[website]](https://react-lm.github.io/)
  
 ### **Representation** ###
 - **Cliport**: "Cliport: What and where pathways for robotic manipulation." CoRL, 2021. [[paper]](https://proceedings.mlr.press/v164/shridhar22a/shridhar22a.pdf)[[code]](https://github.com/cliport/cliport)[[website]](https://cliport.github.io/)
