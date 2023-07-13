@@ -84,7 +84,7 @@ Please feel free to send me pull requests or contact me to correct any mistakes.
 - **BabyAI**  "Babyai: A platform to study the sample efficiency of grounded language learning." ICLR, 2019. [[paper]](https://arxiv.org/pdf/1810.08272)[[code]](https://github.com/mila-iqia/babyai)
 
 ### **Tools** ###
-- **Toolformer**: "Toolformer: Language Models Can Teach Themselves to Use Tools." arXiv, Feb 2023. [[paper]](https://arxiv.org/pdf/2302.04761)[[code]](https://github.com/lucidrains/toolformer-pytorch/tree/main)[[website]]
+- **Toolformer**: "Toolformer: Language Models Can Teach Themselves to Use Tools." arXiv, Feb 2023. [[paper]](https://arxiv.org/pdf/2302.04761)[[code]](https://github.com/lucidrains/toolformer-pytorch/tree/main)
 
 ---
 ## **Citation** ##
