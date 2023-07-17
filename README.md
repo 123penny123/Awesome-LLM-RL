@@ -51,6 +51,9 @@ Please feel free to send me pull requests or contact me to correct any mistakes.
 - **VoxPoser**: "VoxPoser: Composable 3D Value Maps for Robotic Manipulation with Language Models." July 2023. [[[paper]](https://voxposer.github.io/voxposer.pdf)[[website]](https://voxposer.github.io/)
 - **React**: "React: Synergizing reasoning and acting in language models." ICLR, 2023. [[paper]](https://arxiv.org/pdf/2210.03629)[[website]](https://react-lm.github.io/)
 - **Text2Motion**: "Text2Motion: From Natural Language Instructions to Feasible Plans." arXiv, Mar 2023. [[paper]](https://arxiv.org/pdf/2303.12153)[[website]](https://sites.google.com/stanford.edu/text2motion)
+- **Voyager**: "Voyager: An Open-Ended Embodied Agent with Large Language Models." arXiv, May 2023. [[paper]](https://arxiv.org/pdf/2305.16291)[[code]](https://github.com/MineDojo/Voyager)[[website]](https://voyager.minedojo.org/)
+- **Reflexion**: "Reflexion: Language Agents with Verbal Reinforcement Learning." arXiv, Mar 2023. [[paper]](https://arxiv.org/pdf/2303.11366)[[code]](https://github.com/noahshinn024/reflexion)
+- **ReAct**: "ReAct: Synergizing Reasoning and Acting in Language Models." [[paper]](https://arxiv.org/pdf/2210.03629)[[code]](https://github.com/ysymyth/ReAct)[[website]](https://react-lm.github.io/)
  
 ### **Representation** ###
 - **Cliport**: "Cliport: What and where pathways for robotic manipulation." CoRL, 2021. [[paper]](https://proceedings.mlr.press/v164/shridhar22a/shridhar22a.pdf)[[code]](https://github.com/cliport/cliport)[[website]](https://cliport.github.io/)
