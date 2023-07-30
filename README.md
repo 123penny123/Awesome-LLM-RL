@@ -54,6 +54,8 @@ Please feel free to send me pull requests or contact me to correct any mistakes.
 - **Voyager**: "Voyager: An Open-Ended Embodied Agent with Large Language Models." arXiv, May 2023. [[paper]](https://arxiv.org/pdf/2305.16291)[[code]](https://github.com/MineDojo/Voyager)[[website]](https://voyager.minedojo.org/)
 - **Reflexion**: "Reflexion: Language Agents with Verbal Reinforcement Learning." arXiv, Mar 2023. [[paper]](https://arxiv.org/pdf/2303.11366)[[code]](https://github.com/noahshinn024/reflexion)
 - **ReAct**: "ReAct: Synergizing Reasoning and Acting in Language Models." ICLR, 2023. [[paper]](https://arxiv.org/pdf/2210.03629)[[code]](https://github.com/ysymyth/ReAct)[[website]](https://react-lm.github.io/)
+- **RT-1**: "RT-1: Robotics Transformer for Real-World Control at Scale." arXiv, Dec 2022. [[paper]](https://arxiv.org/pdf/2212.06817)[[code]](https://github.com/google-research/robotics_transformer)
+- **RT-2**: "RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control." Deepmind, July 2023. [[paper]](https://robotics-transformer2.github.io/assets/rt2.pdf)[[website]](https://robotics-transformer2.github.io/)
  
 ### **Representation** ###
 - **Cliport**: "Cliport: What and where pathways for robotic manipulation." CoRL, 2021. [[paper]](https://proceedings.mlr.press/v164/shridhar22a/shridhar22a.pdf)[[code]](https://github.com/cliport/cliport)[[website]](https://cliport.github.io/)
