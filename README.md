@@ -1,4 +1,4 @@
-# **Awesome-LM-RL** #
+# **Awesome-LM-Decision-Making** #
 
 2023 up-to-date list of PAPERS, CODEBASES, and BENCHMARKS on Decision Making using Foundation Models including LLMs and VLMs.
 
@@ -56,6 +56,7 @@ Please feel free to send me pull requests or contact me to correct any mistakes.
 - **ReAct**: "ReAct: Synergizing Reasoning and Acting in Language Models." ICLR, 2023. [[paper]](https://arxiv.org/pdf/2210.03629)[[code]](https://github.com/ysymyth/ReAct)[[website]](https://react-lm.github.io/)
 - **RT-1**: "RT-1: Robotics Transformer for Real-World Control at Scale." arXiv, Dec 2022. [[paper]](https://arxiv.org/pdf/2212.06817)[[code]](https://github.com/google-research/robotics_transformer)
 - **RT-2**: "RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control." Deepmind, July 2023. [[paper]](https://robotics-transformer2.github.io/assets/rt2.pdf)[[website]](https://robotics-transformer2.github.io/)
+- "Generative Agents: Interactive Simulacra of Human Behavior." arXiv, Apr 2023. [[paper]](https://arxiv.org/pdf/2304.03442.pdf%C3%82%C2%A0)[[code]](https://github.com/joonspk-research/generative_agents)
  
 ### **Representation** ###
 - **Cliport**: "Cliport: What and where pathways for robotic manipulation." CoRL, 2021. [[paper]](https://proceedings.mlr.press/v164/shridhar22a/shridhar22a.pdf)[[code]](https://github.com/cliport/cliport)[[website]](https://cliport.github.io/)
