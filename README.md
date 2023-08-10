@@ -89,8 +89,10 @@ Please feel free to send me pull requests or contact me to correct any mistakes.
 - **Habitat 2.0**: "Habitat 2.0: Training home assistants to rearrange their habitat." NIPS, 2021. [[paper]](https://proceedings.neurips.cc/paper/2021/file/021bbc7ee20b71134d53e20206bd6feb-Paper.pdf)[[code]](https://github.com/facebookresearch/habitat-lab)[[website]](https://aihabitat.org/docs/habitat2/)
 
 ### **Game** ###
-- **Minedojo** "Minedojo: Building open-ended embodied agents with internet-scale knowledge." arXiv, 2022. [[paper]](https://arxiv.org/pdf/2206.08853)[[code]](https://github.com/MineDojo/MineDojo)[[website]](https://minedojo.org/)
-- **BabyAI**  "Babyai: A platform to study the sample efficiency of grounded language learning." ICLR, 2019. [[paper]](https://arxiv.org/pdf/1810.08272)[[code]](https://github.com/mila-iqia/babyai)
+- **Minedojo**: "Minedojo: Building open-ended embodied agents with internet-scale knowledge." arXiv, 2022. [[paper]](https://arxiv.org/pdf/2206.08853)[[code]](https://github.com/MineDojo/MineDojo)[[website]](https://minedojo.org/)
+- **BabyAI**:  "Babyai: A platform to study the sample efficiency of grounded language learning." ICLR, 2019. [[paper]](https://arxiv.org/pdf/1810.08272)[[code]](https://github.com/mila-iqia/babyai)
+- **Generative Agents**: "Generative Agents: Interactive Simulacra of Human Behavior." arXiv Apr 2023. [[paper]](https://arxiv.org/pdf/2304.03442)[[website]](https://reverie.herokuapp.com/arXiv_Demo/#)[[code]](https://github.com/joonspk-research/generative_agents)
+- **AgentBench**: "AgentBench: Evaluating LLMs as Agents." arXiv, Aug 2023. [[paper]](https://arxiv.org/pdf/2308.03688)[[website]](https://llmbench.ai/)[[code]](https://github.com/THUDM/AgentBench)
 
 ### **Tools** ###
 - **Toolformer**: "Toolformer: Language Models Can Teach Themselves to Use Tools." arXiv, Feb 2023. [[paper]](https://arxiv.org/pdf/2302.04761)[[code]](https://github.com/lucidrains/toolformer-pytorch/tree/main)
