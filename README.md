@@ -57,6 +57,9 @@ Please feel free to send me pull requests or contact me to correct any mistakes.
 - **RT-1**: "RT-1: Robotics Transformer for Real-World Control at Scale." arXiv, Dec 2022. [[paper]](https://arxiv.org/pdf/2212.06817)[[code]](https://github.com/google-research/robotics_transformer)
 - **RT-2**: "RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control." Deepmind, July 2023. [[paper]](https://robotics-transformer2.github.io/assets/rt2.pdf)[[website]](https://robotics-transformer2.github.io/)
 - "Generative Agents: Interactive Simulacra of Human Behavior." arXiv, Apr 2023. [[paper]](https://arxiv.org/pdf/2304.03442.pdf%C3%82%C2%A0)[[code]](https://github.com/joonspk-research/generative_agents)
+- **MOO**: "Open-World Object Manipulation using Pre-trained Vision-Language Models." arXiv, Mar 2023. [[paper]](https://arxiv.org/pdf/2303.00905)[[website]](https://robot-moo.github.io/)
+- **EmbodiedGPT**: "EmbodiedGPT: Vision-Language Pre-Training via Embodied Chain of Thought." arXiv, May 2023. [[paper]](https://arxiv.org/pdf/2305.15021)[[code]](https://github.com/EmbodiedGPT/EmbodiedGPT_Pytorch)[[website]](https://embodiedgpt.github.io/)
+- **RoboCat**: "RoboCat: A self-improving robotic agent." arXiv, Jun 2023. [[paper]](https://arxiv.org/abs/2306.11706)[[website]](https://www.deepmind.com/blog/robocat-a-self-improving-robotic-agent)
  
 ### **Representation** ###
 - **Cliport**: "Cliport: What and where pathways for robotic manipulation." CoRL, 2021. [[paper]](https://proceedings.mlr.press/v164/shridhar22a/shridhar22a.pdf)[[code]](https://github.com/cliport/cliport)[[website]](https://cliport.github.io/)
