@@ -27,6 +27,7 @@ Please feel free to send me pull requests or contact me to correct any mistakes.
 ### **World Models** ###
 - **IRIS**: "Transformers are sample efficient world models." ICLR, 2023. [[paper]](https://arxiv.org/pdf/2209.00588)[[code]](https://github.com/eloialonso/iris)
 - **UniPi**: "Learning Universal Policies via Text-Guided Video Generation." arXiv, 2023.[[paper]](https://arxiv.org/pdf/2302.00111)[[website]](https://universal-policy.github.io/unipi/)
+- **Dynalang**： "Learning to Model the World with Language." arXiv, July 2023. [[paper]](https://arxiv.org/pdf/2308.01399)[[website]](https://dynalang.github.io/)[[code]](https://github.com/jlin816/dynalang)
 
 ### **Reward Models** ###
 - **EAGER**: "EAGER: Asking and Answering Questions for Automatic Reward Shaping in Language-guided RL." NIPS, 2022. [[paper]](https://proceedings.neurips.cc/paper_files/paper/2022/file/50eb39ab717507cccbe2b8590de32030-Paper-Conference.pdf)[[code]](https://github.com/flowersteam/eager)
