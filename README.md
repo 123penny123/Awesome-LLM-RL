@@ -65,10 +65,10 @@ Please feel free to send me pull requests or contact me to correct any mistakes.
   - **MOO**: "Open-World Object Manipulation using Pre-trained Vision-Language Models." arXiv, Mar 2023. [[paper]](https://arxiv.org/pdf/2303.00905)[[website]](https://robot-moo.github.io/)
   - **EmbodiedGPT**: "EmbodiedGPT: Vision-Language Pre-Training via Embodied Chain of Thought." arXiv, May 2023. [[paper]](https://arxiv.org/pdf/2305.15021)[[code]](https://github.com/EmbodiedGPT/EmbodiedGPT_Pytorch)[[website]](https://embodiedgpt.github.io/)
   - **RoboCat**: "RoboCat: A self-improving robotic agent." arXiv, Jun 2023. [[paper]](https://arxiv.org/abs/2306.11706)[[website]](https://www.deepmind.com/blog/robocat-a-self-improving-robotic-agent)
+  - **RT-X**: "Open X-Embodiment: Robotic Learning Datasets and RT-X Models." [[paper]](https://robotics-transformer-x.github.io/paper.pdf)[[code]](https://console.cloud.google.com/storage/browser/gresearch/robotics/open_x_embodiment_and_rt_x_oss;tab=objects?prefix=&forceOnObjectsSortingFiltering=false)
  
 ### **Representation** ###
 - **Cliport**: "Cliport: What and where pathways for robotic manipulation." CoRL, 2021. [[paper]](https://proceedings.mlr.press/v164/shridhar22a/shridhar22a.pdf)[[code]](https://github.com/cliport/cliport)[[website]](https://cliport.github.io/)
-- **Rt-1**: "Rt-1: Robotics transformer for real-world control at scale." arXiv, 2022. [[paper]](https://arxiv.org/pdf/2212.06817)[[code]](https://github.com/google-research/robotics_transformer)[[website]](https://robotics-transformer.github.io/)
 - **Vima**; "Vima: General robot manipulation with multimodal prompts." ICML, 2023. [[paper]](https://arxiv.org/pdf/2210.03094)[[code]](https://github.com/vimalabs/VIMA)[[website]](https://vimalabs.github.io/)
 - **Perceiver-actor**: "Perceiver-actor: A multi-task transformer for robotic manipulation." CoRL, 2022. [[paper]](https://proceedings.mlr.press/v205/shridhar23a/shridhar23a.pdf)[[code]](https://github.com/peract/peract)[[website]](https://peract.github.io/)
 - **InstructRL**: "Instruction-Following Agents with Jointly Pre-Trained Vision-Language Models." arXiv, 2022. [[paper]](https://arxiv.org/pdf/2210.13431)
