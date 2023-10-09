@@ -65,7 +65,7 @@ Please feel free to send me pull requests or contact me to correct any mistakes.
   - **MOO**: "Open-World Object Manipulation using Pre-trained Vision-Language Models." arXiv, Mar 2023. [[paper]](https://arxiv.org/pdf/2303.00905)[[website]](https://robot-moo.github.io/)
   - **EmbodiedGPT**: "EmbodiedGPT: Vision-Language Pre-Training via Embodied Chain of Thought." arXiv, May 2023. [[paper]](https://arxiv.org/pdf/2305.15021)[[code]](https://github.com/EmbodiedGPT/EmbodiedGPT_Pytorch)[[website]](https://embodiedgpt.github.io/)
   - **RoboCat**: "RoboCat: A self-improving robotic agent." arXiv, Jun 2023. [[paper]](https://arxiv.org/abs/2306.11706)[[website]](https://www.deepmind.com/blog/robocat-a-self-improving-robotic-agent)
-  - **RT-X**: "Open X-Embodiment: Robotic Learning Datasets and RT-X Models." [[paper]](https://robotics-transformer-x.github.io/paper.pdf)[[code]](https://console.cloud.google.com/storage/browser/gresearch/robotics/open_x_embodiment_and_rt_x_oss;tab=objects?prefix=&forceOnObjectsSortingFiltering=false)
+  - **RT-X**: "Open X-Embodiment: Robotic Learning Datasets and RT-X Models." [[paper]](https://robotics-transformer-x.github.io/paper.pdf)[[code]](https://console.cloud.google.com/storage/browser/gresearch/robotics/open_x_embodiment_and_rt_x_oss;tab=objects?prefix=&forceOnObjectsSortingFiltering=false)[[website]](https://robotics-transformer-x.github.io/)
  
 ### **Representation** ###
 - **Cliport**: "Cliport: What and where pathways for robotic manipulation." CoRL, 2021. [[paper]](https://proceedings.mlr.press/v164/shridhar22a/shridhar22a.pdf)[[code]](https://github.com/cliport/cliport)[[website]](https://cliport.github.io/)
