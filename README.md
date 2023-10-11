@@ -1,4 +1,4 @@
-# **Awesome-LM-Decision-Making** #
+# **Awesome-LLM-Decision-Making** #
 
 2023 up-to-date list of PAPERS, CODEBASES, and BENCHMARKS on Decision Making using Foundation Models including LLMs and VLMs.
 
@@ -50,7 +50,7 @@ Please feel free to send me pull requests or contact me to correct any mistakes.
   - "Generative Agents: Interactive Simulacra of Human Behavior." arXiv, Apr 2023. [[paper]](https://arxiv.org/pdf/2304.03442.pdf%C3%82%C2%A0)[[code]](https://github.com/joonspk-research/generative_agents)
   - "Cognitive Architectures for Language Agents." arXiv, Sep 2023. [[paper]](https://arxiv.org/abs/2309.02427)[[code]](https://github.com/ysymyth/awesome-language-agents)
    
-- **Robotic-Specific**
+- **Embodied AI**
   - **SayCan**: "Do as i can, not as i say: Grounding language in robotic affordances." arXiv, 2022. [[paper]](https://arxiv.org/pdf/2204.01691)[[code]](https://github.com/google-research/google-research/tree/master/saycan)[[website]](https://say-can.github.io/)
   - **PaLM-E**: "Palm-e: An embodied multimodal language model." arXiv, 2023. [[paper]](https://arxiv.org/pdf/2303.03378.pdf?trk=public_post_comment-text)[[website]](https://palm-e.github.io/)
   - **LM-Nav**: "Lm-nav: Robotic navigation with large pre-trained models of language, vision, and action." CoRL, 2022.[[paper]](https://proceedings.mlr.press/v205/shah23b/shah23b.pdf)[[code]](https://github.com/blazejosinski/lm_nav)[[website]](https://sites.google.com/view/lmnav)
@@ -66,6 +66,7 @@ Please feel free to send me pull requests or contact me to correct any mistakes.
   - **EmbodiedGPT**: "EmbodiedGPT: Vision-Language Pre-Training via Embodied Chain of Thought." arXiv, May 2023. [[paper]](https://arxiv.org/pdf/2305.15021)[[code]](https://github.com/EmbodiedGPT/EmbodiedGPT_Pytorch)[[website]](https://embodiedgpt.github.io/)
   - **RoboCat**: "RoboCat: A self-improving robotic agent." arXiv, Jun 2023. [[paper]](https://arxiv.org/abs/2306.11706)[[website]](https://www.deepmind.com/blog/robocat-a-self-improving-robotic-agent)
   - **RT-X**: "Open X-Embodiment: Robotic Learning Datasets and RT-X Models." [[paper]](https://robotics-transformer-x.github.io/paper.pdf)[[code]](https://console.cloud.google.com/storage/browser/gresearch/robotics/open_x_embodiment_and_rt_x_oss;tab=objects?prefix=&forceOnObjectsSortingFiltering=false)[[website]](https://robotics-transformer-x.github.io/)
+  - **GenSim**: "GenSim: Generating Robotic Simulation Tasks via Large Language Models." arXiv, Oct 2023. [[paper]](https://arxiv.org/abs/2310.01361)[[code]](https://github.com/liruiw/GenSim)[[website]](https://liruiw.github.io/gensim/)
  
 ### **Representation** ###
 - **Cliport**: "Cliport: What and where pathways for robotic manipulation." CoRL, 2021. [[paper]](https://proceedings.mlr.press/v164/shridhar22a/shridhar22a.pdf)[[code]](https://github.com/cliport/cliport)[[website]](https://cliport.github.io/)
