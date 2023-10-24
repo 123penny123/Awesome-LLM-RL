@@ -35,6 +35,7 @@ Please feel free to send me pull requests or contact me to correct any mistakes.
 - "Reward design with language models." ICLR, 2023. [[paper]](https://arxiv.org/pdf/2303.00001)[[code]](https://github.com/minaek/reward_design_with_llms)
 - **ELLM**: "Guiding Pretraining in Reinforcement Learning with Large Language Models." arXiv, 2023. [[paper]](https://arxiv.org/pdf/2302.06692)
 - "Language to Rewards for Robotic Skill Synthesis." arXiv, June 2023. [[paper]](https://arxiv.org/pdf/2306.08647)[[website]](https://language-to-reward.github.io/)
+- "Vision-Language Models are Zero-Shot Reward Models for Reinforcement Learning." arXiv, Oct 2023. [[paper]](https://arxiv.org/pdf/2310.12921.pdf)
 
 ### **Agent Models** ###
 - **Generative Agent**
