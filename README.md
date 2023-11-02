@@ -69,6 +69,7 @@ Please feel free to send me pull requests or contact me to correct any mistakes.
   - **RT-X**: "Open X-Embodiment: Robotic Learning Datasets and RT-X Models." [[paper]](https://robotics-transformer-x.github.io/paper.pdf)[[code]](https://console.cloud.google.com/storage/browser/gresearch/robotics/open_x_embodiment_and_rt_x_oss;tab=objects?prefix=&forceOnObjectsSortingFiltering=false)[[website]](https://robotics-transformer-x.github.io/)
   - **GenSim**: "GenSim: Generating Robotic Simulation Tasks via Large Language Models." arXiv, Oct 2023. [[paper]](https://arxiv.org/abs/2310.01361)[[code]](https://github.com/liruiw/GenSim)[[website]](https://liruiw.github.io/gensim/)
   - "Language Models as Zero-Shot Trajectory Generators." arXiv, Oct 2023. [[paper]](https://arxiv.org/abs/2310.11604)[[code]](https://github.com/kwonathan/language-models-trajectory-generators)[[website]](https://www.robot-learning.uk/language-models-trajectory-generators)
+  - **LLaRP**: "Large Language Models as Generalizable Policies for Embodied Tasks." arXiv, Oct 2023. [[paper]](https://arxiv.org/pdf/2310.17722.pdf)[[website]](https://llm-rl.github.io/)
  
 ### **Representation** ###
 - **Cliport**: "Cliport: What and where pathways for robotic manipulation." CoRL, 2021. [[paper]](https://proceedings.mlr.press/v164/shridhar22a/shridhar22a.pdf)[[code]](https://github.com/cliport/cliport)[[website]](https://cliport.github.io/)
