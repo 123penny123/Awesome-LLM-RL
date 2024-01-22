@@ -24,6 +24,7 @@ Please feel free to send me pull requests or contact me to correct any mistakes.
 - "Foundation models for decision making: Problems, methods, and opportunities." arXiv, 2023. [[paper]](https://arxiv.org/pdf/2303.04129)
 - "A Survey of Large Language Models." arXiv, June 2023. [[paper]](https://arxiv.org/pdf/2303.18223)[[code]](https://github.com/RUCAIBox/LLMSurvey)
 - "A Survey on Large Language Model based Autonomous Agents." arXiv, Aug 2023. [[paper]](https://arxiv.org/pdf/2308.11432)[[code]](https://github.com/Paitesanshi/LLM-Agent-Survey)
+- "Personal LLM Agents: Insights and Survey about the Capability, Efficiency and Security." arXiv, Jan 2024. [[paper]](https://arxiv.org/pdf/2401.05459.pdf)[[code]](https://github.com/MobileLLM/Personal_LLM_Agents_Survey)
 
 ### **World Models** ###
 - **IRIS**: "Transformers are sample efficient world models." ICLR, 2023. [[paper]](https://arxiv.org/pdf/2209.00588)[[code]](https://github.com/eloialonso/iris)
