@@ -52,6 +52,7 @@ Please feel free to send me pull requests or contact me to correct any mistakes.
   - **ReAct**: "ReAct: Synergizing Reasoning and Acting in Language Models." ICLR, 2023. [[paper]](https://arxiv.org/pdf/2210.03629)[[code]](https://github.com/ysymyth/ReAct)[[website]](https://react-lm.github.io/)
   - "Generative Agents: Interactive Simulacra of Human Behavior." arXiv, Apr 2023. [[paper]](https://arxiv.org/pdf/2304.03442.pdf%C3%82%C2%A0)[[code]](https://github.com/joonspk-research/generative_agents)
   - "Cognitive Architectures for Language Agents." arXiv, Sep 2023. [[paper]](https://arxiv.org/abs/2309.02427)[[code]](https://github.com/ysymyth/awesome-language-agents)
+  - **Retroformer**: "Retroformer: Retrospective large language agents with policy gradient optimization." arXiv, Aug 2023. [[paper]](https://arxiv.org/pdf/2308.02151.pdf)
    
 - **Embodied AI**
   - **SayCan**: "Do as i can, not as i say: Grounding language in robotic affordances." arXiv, 2022. [[paper]](https://arxiv.org/pdf/2204.01691)[[code]](https://github.com/google-research/google-research/tree/master/saycan)[[website]](https://say-can.github.io/)
