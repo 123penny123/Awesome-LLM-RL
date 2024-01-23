@@ -109,7 +109,7 @@ Please feel free to send me pull requests or contact me to correct any mistakes.
 - **BabyAI**:  "Babyai: A platform to study the sample efficiency of grounded language learning." ICLR, 2019. [[paper]](https://arxiv.org/pdf/1810.08272)[[code]](https://github.com/mila-iqia/babyai)
 - **Generative Agents**: "Generative Agents: Interactive Simulacra of Human Behavior." arXiv Apr 2023. [[paper]](https://arxiv.org/pdf/2304.03442)[[website]](https://reverie.herokuapp.com/arXiv_Demo/#)[[code]](https://github.com/joonspk-research/generative_agents)
 - **AgentBench**: "AgentBench: Evaluating LLMs as Agents." arXiv, Aug 2023. [[paper]](https://arxiv.org/pdf/2308.03688)[[website]](https://llmbench.ai/)[[code]](https://github.com/THUDM/AgentBench)
-- - **Teacher-Student Learning**: "Mutual Enhancement of Large Language and Reinforcement Learning Models through Bi-Directional Feedback Mechanisms: A Case Study." arXiv, Jan 2024. [[paper]](https://arxiv.org/pdf/2401.06603.pdf)
+- **Teacher-Student Learning**: "Mutual Enhancement of Large Language and Reinforcement Learning Models through Bi-Directional Feedback Mechanisms: A Case Study." arXiv, Jan 2024. [[paper]](https://arxiv.org/pdf/2401.06603.pdf)
 
 ### **Tools** ###
 - **Toolformer**: "Toolformer: Language Models Can Teach Themselves to Use Tools." arXiv, Feb 2023. [[paper]](https://arxiv.org/pdf/2302.04761)[[code]](https://github.com/lucidrains/toolformer-pytorch/tree/main)
