@@ -53,6 +53,7 @@ Please feel free to send me pull requests or contact me to correct any mistakes.
   - "Generative Agents: Interactive Simulacra of Human Behavior." arXiv, Apr 2023. [[paper]](https://arxiv.org/pdf/2304.03442.pdf%C3%82%C2%A0)[[code]](https://github.com/joonspk-research/generative_agents)
   - "Cognitive Architectures for Language Agents." arXiv, Sep 2023. [[paper]](https://arxiv.org/abs/2309.02427)[[code]](https://github.com/ysymyth/awesome-language-agents)
   - **Retroformer**: "Retroformer: Retrospective large language agents with policy gradient optimization." arXiv, Aug 2023. [[paper]](https://arxiv.org/pdf/2308.02151.pdf)
+  - **SayCanPay**: "Heuristic Planning with Large Language Models using Learnable Domain Knowledge." AAAI, 2024. [[paper]](https://arxiv.org/pdf/2308.12682.pdf)[[code]](https://github.com/RishiHazra/saycanpay)[[website]](https://rishihazra.github.io/SayCanPay/)
    
 - **Embodied AI**
   - **SayCan**: "Do as i can, not as i say: Grounding language in robotic affordances." arXiv, 2022. [[paper]](https://arxiv.org/pdf/2204.01691)[[code]](https://github.com/google-research/google-research/tree/master/saycan)[[website]](https://say-can.github.io/)
@@ -104,6 +105,7 @@ Please feel free to send me pull requests or contact me to correct any mistakes.
 - **Housekeep**: "Housekeep: Tidying virtual households using commonsense reasoning." ECCV, 2022. [[paper]](https://arxiv.org/pdf/2205.10712)[[code]](https://github.com/yashkant/housekeep)[[website]](https://yashkant.github.io/housekeep/#:~:text=Abstract,objects%20need%20to%20be%20rearranged.)
 - **Behavior-1k**: "Behavior-1k: A benchmark for embodied ai with 1,000 everyday activities and realistic simulation." CoRL, 2022. [[paper]](https://proceedings.mlr.press/v205/li23a/li23a.pdf)[[code]](https://github.com/StanfordVL/OmniGibson)[[website]](https://behavior.stanford.edu/behavior-1k)
 - **Habitat 2.0**: "Habitat 2.0: Training home assistants to rearrange their habitat." NIPS, 2021. [[paper]](https://proceedings.neurips.cc/paper/2021/file/021bbc7ee20b71134d53e20206bd6feb-Paper.pdf)[[code]](https://github.com/facebookresearch/habitat-lab)[[website]](https://aihabitat.org/docs/habitat2/)
+- **EgoTV** 📺: "Egocentric Task Verification from Natural Language Task Descriptions." ICCV, 2023 (from Meta AI) [[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Hazra_EgoTV_Egocentric_Task_Verification_from_Natural_Language_Task_Descriptions_ICCV_2023_paper.pdf)[[code]](https://github.com/facebookresearch/EgoTV)[[website]](https://rishihazra.github.io/EgoTV)
 
 ### **Game** ###
 - **Minedojo**: "Minedojo: Building open-ended embodied agents with internet-scale knowledge." arXiv, 2022. [[paper]](https://arxiv.org/pdf/2206.08853)[[code]](https://github.com/MineDojo/MineDojo)[[website]](https://minedojo.org/)
