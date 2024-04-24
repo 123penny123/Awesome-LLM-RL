@@ -54,7 +54,8 @@ Please feel free to send me pull requests or contact me to correct any mistakes.
   - "Cognitive Architectures for Language Agents." arXiv, Sep 2023. [[paper]](https://arxiv.org/abs/2309.02427)[[code]](https://github.com/ysymyth/awesome-language-agents)
   - **Retroformer**: "Retroformer: Retrospective large language agents with policy gradient optimization." arXiv, Aug 2023. [[paper]](https://arxiv.org/pdf/2308.02151.pdf)
   - **SayCanPay**: "Heuristic Planning with Large Language Models using Learnable Domain Knowledge." AAAI, 2024. [[paper]](https://arxiv.org/pdf/2308.12682.pdf)[[code]](https://github.com/RishiHazra/saycanpay)[[website]](https://rishihazra.github.io/SayCanPay/)
-   
+  - **SPAG**: "Self-playing Adversarial Language Game Enhances LLM Reasoning." arXiv, 2024. [[paper]](https://arxiv.org/abs/2404.10642)[[code]](https://github.com/Linear95/SPAG)
+  
 - **Embodied AI**
   - **SayCan**: "Do as i can, not as i say: Grounding language in robotic affordances." arXiv, 2022. [[paper]](https://arxiv.org/pdf/2204.01691)[[code]](https://github.com/google-research/google-research/tree/master/saycan)[[website]](https://say-can.github.io/)
   - **PaLM-E**: "Palm-e: An embodied multimodal language model." arXiv, 2023. [[paper]](https://arxiv.org/pdf/2303.03378.pdf?trk=public_post_comment-text)[[website]](https://palm-e.github.io/)
