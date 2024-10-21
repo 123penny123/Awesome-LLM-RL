@@ -76,6 +76,7 @@ Please feel free to send me pull requests or contact me to correct any mistakes.
   - **LLaRP**: "Large Language Models as Generalizable Policies for Embodied Tasks." arXiv, Oct 2023. [[paper]](https://arxiv.org/pdf/2310.17722.pdf)[[website]](https://llm-rl.github.io/)
   - **CLARA**: "CLARA: Classifying and Disambiguating User Commands for Reliable Interactive Robotic Agents." arXiv, June 2023. [[paper]](https://arxiv.org/pdf/2306.10376.pdf)
   - **Ada**: "Learning adaptive planning representations with natural language guidance." arXiv, Dec 2023. [[paper]](https://arxiv.org/pdf/2312.08566.pdf)
+  - **ExploRLLM**: "ExploRLLM: Guiding Exploration in Reinforcement Learning with Large Language Models." arXiv, March 2024 [[paper]](https://arxiv.org/abs/2403.09583)[[website]](https://explorllm.github.io/)
   - "Demonstrating Large Language Models on Robots." RSS, 2023. [[paper]](https://www.roboticsproceedings.org/rss19/p024.pdf)
   - "Grounded Decoding: Guiding Text Generation with Grounded Models for Embodied Agents." NIPS, 2023. [[paper]](https://proceedings.neurips.cc/paper_files/paper/2023/file/bb3cfcb0284642a973dd631ec9184f2f-Paper-Conference.pdf)
   - "Learning to Learn Faster from Human Feedback with Language Model Predictive Control." arXiv, Feb 2024. [[paper]](https://arxiv.org/pdf/2402.11450)
