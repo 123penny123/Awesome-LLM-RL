@@ -118,6 +118,7 @@ Please feel free to send me pull requests or contact me to correct any mistakes.
 
 ### **Tools** ###
 - **Toolformer**: "Toolformer: Language Models Can Teach Themselves to Use Tools." arXiv, Feb 2023. [[paper]](https://arxiv.org/pdf/2302.04761)[[code]](https://github.com/lucidrains/toolformer-pytorch/tree/main)
+- **ToolMaster**: "Teaching LLMs to Learn Tool Trialing and Execution through Environment Interaction." arXiv, Jan 2026. [[paper]](https://arxiv.org/pdf/2601.12762)[[code]](https://github.com/NEUIR/ToolMaster)
 
 ---
 ## **Citation** ##
